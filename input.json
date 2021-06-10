@@ -1,0 +1,27 @@
+{
+    "name": "Alexito's favorite packages",
+    "overview": "This collection contains my favorite Swift packages.",
+    "keywords": [
+        "favorite"
+    ],
+    "packages": [
+        {
+            "url": "https://github.com/nicklockwood/SwiftFormat.git"
+        },
+        {
+            "url": "https://github.com/realm/SwiftLint.git"
+        },
+        {
+            "url": "https://github.com/pointfreeco/swift-composable-architecture.git"
+        },
+        {
+            "url": "https://github.com/pointfreeco/swift-snapshot-testing.git"
+        },
+        {
+            "url": "https://github.com/apple/swift-argument-parser.git"
+        }
+    ],
+    "author": {
+        "name": "Alejandro Martinez"
+    }
+}
